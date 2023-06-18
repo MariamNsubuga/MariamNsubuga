@@ -21,8 +21,10 @@
            <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
              <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WORDPRESS" alt="wordpress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariamNsubuga)](https://git.io/streak-stats)
 <!--
 **MariamNsubuga/MariamNsubuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
