@@ -27,6 +27,8 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariamNsubuga&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamNsubuga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MariamNsubuga/MariamNsubuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
